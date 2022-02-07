@@ -10,6 +10,6 @@
     ],
     "start_url": "/bullshit/index.html",
     "background_color": "#000033",
-    "display": "standalone",
+    "display": "fullscreen",
     "theme_color": "#00ffff"
 }

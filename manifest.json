@@ -3,13 +3,13 @@
     "name": "The Bullshit Detector",
     "icons": [
         {
-            "src": "/assets/icon-512.png",
+            "src": "/bullshit/assets/icon-512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
     ],
-    "start_url": "bullshit/index.html",
-    "background_color": "#00ffff",
+    "start_url": "/bullshit/index.html",
+    "background_color": "#000033",
     "display": "standalone",
     "theme_color": "#00ffff"
 }

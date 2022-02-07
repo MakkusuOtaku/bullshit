@@ -1,0 +1,15 @@
+{
+    "short_name": "BullShit Detector",
+    "name": "The BullShit Detector",
+    "icons": [
+        {
+            "src": "/assets/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#00ffff",
+    "display": "standalone",
+    "theme_color": "#00ffff"
+}

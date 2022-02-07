@@ -8,7 +8,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "bullshit/index.html",
     "background_color": "#00ffff",
     "display": "standalone",
     "theme_color": "#00ffff"
